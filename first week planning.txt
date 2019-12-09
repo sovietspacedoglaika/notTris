@@ -1,0 +1,37 @@
+
+# plan - week one
+
+minoQueueType
+    singlebag: list of 7 - shuffle
+    doublebag: list of 7 x 2 - shuffle
+    "true random": random between one and seven
+
+class minos
+	int id: (1-7)
+	char name: (j, l, z, s, t, i, o)
+	var mino = new[,] 
+
+grid
+    20 + 2 height
+    10 + 2 width 
+    + 2 = walls
+    
+matrix is grid with filled or not filled value
+ 
+
+control abilities
+    rotate left/right
+    hard drop
+
+lockdown-time ? 
+
+high scores?
+menu
+
+t-spins NOPE too fancy
+
+scores? 
+lineclear 1, 2, 3 + tetris clear different
+back to back too fancy 
+
+high score list, 5 scores, 5char -> save local list as?? idk decide later
