@@ -1,15 +1,17 @@
 
-# plan - week one
+# first plan notes and time warped reflections of a project im not even remotely close to having done 
+
+todo: make a dum dum trelloboard or smthn note to self: ur messy get ur house in order
 
 minoQueueType
-    singlebag: list of 7 - shuffle
-    doublebag: list of 7 x 2 - shuffle
-    "true random": random between one and seven
+    singlebag: list of 7 - 
+    doublebag: list of 7 x 2 - 
+    """"""""""true"2""2""" random": random between one and seven in some cool snazzy way
 
 class minos
 	int id: (1-7)
 	char name: (j, l, z, s, t, i, o)
-	var mino = new[,] 
+	var mino = new[,]  ?? mayb
 
 grid
     20 + 2 height
@@ -18,15 +20,31 @@ grid
     
 matrix is grid with filled or not filled value
  
+super cool thinkies from master mind of project
+	marathon winnable if 150 lines cleared
+	
+megalomanic ambitions:
+	endless isnt winnable but yeah challenge urself god dang
+	a-types -> them two
+	b-type -> true b type so garbaGe 
+	
+	mUusic ? should just set to Государственный гимн Советского Союза as to not appear to be american spy 
+	no ok realistically do sum dum bleeping noises or set it all to norwegian black metal i haven thought this thru
+	
+	sound fx wow im dreaming again but they should be horrifying or annoying
 
 control abilities
-    rotate left/right
-    hard drop
+  	rotate left/right w up down ok confuse
+    	move left right w left right
+    	pause space
+    	menu some other snazzy key
 
 lockdown-time ? 
+	mean super basic classicy harsh ok sweet
 
 high scores?
-menu
+	high score list, 5 scores, 5char -> save local list as?? idk decide later
+	saved to a local file 
 
 t-spins NOPE too fancy
 
@@ -34,4 +52,3 @@ scores?
 lineclear 1, 2, 3 + tetris clear different
 back to back too fancy 
 
-high score list, 5 scores, 5char -> save local list as?? idk decide later
