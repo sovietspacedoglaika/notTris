@@ -1,1 +1,16 @@
+#score
 
+would like to implement a more complex scoring system
+currscore = 100/line cleared
+scores could include duration of pressing the downkey/softdropping
+back-to-back for ex tetris clears 
+
+#highscore
+
+would like to implement high scores, possibly stored locally in a txt-file for example,
+could read from and write to, compare data and only store a limited amt of highscores
+
+#rng
+
+currently only random.next(1,8) bc why not works ok but nor great. would like to implement
+bagtypes, aka randomising a list from 1-7 and then rendering these seven n then repeat for singlebag for example
