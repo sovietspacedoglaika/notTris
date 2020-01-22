@@ -1,0 +1,112 @@
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\bin\Debug\notTris.exe.config
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\bin\Debug\notTris.exe
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\bin\Debug\notTris.pdb
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\notTris.csprojAssemblyReference.cache
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\MainWindow.baml
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\MainWindow.g.cs
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\App.g.cs
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\notTris_MarkupCompile.cache
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\notTris.g.resources
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\notTris.Properties.Resources.resources
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\notTris.csproj.GenerateResource.cache
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\notTris.csproj.CoreCompileInputs.cache
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\notTris.exe
+C:\Users\pim\Desktop\notTris adds\notTris\notTris\notTris\obj\Debug\notTris.pdb
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\bin\Debug\notTris.exe.config
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\bin\Debug\notTris.exe
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\bin\Debug\notTris.pdb
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\notTris.csprojAssemblyReference.cache
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\MainWindow.baml
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\MainWindow.g.cs
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\App.g.cs
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\notTris_MarkupCompile.cache
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\notTris.g.resources
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\notTris.Properties.Resources.resources
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\notTris.csproj.GenerateResource.cache
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\notTris.csproj.CoreCompileInputs.cache
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\notTris.exe
+C:\Users\pim\Desktop\notTris adds ÖLD\notTris\notTris\notTris\obj\Debug\notTris.pdb
+D:\notTris\notTris\notTris\bin\Debug\notTris.exe.config
+D:\notTris\notTris\notTris\bin\Debug\notTris.exe
+D:\notTris\notTris\notTris\bin\Debug\notTris.pdb
+D:\notTris\notTris\notTris\obj\Debug\notTris.csprojAssemblyReference.cache
+D:\notTris\notTris\notTris\obj\Debug\MainWindow.baml
+D:\notTris\notTris\notTris\obj\Debug\MainWindow.g.cs
+D:\notTris\notTris\notTris\obj\Debug\App.g.cs
+D:\notTris\notTris\notTris\obj\Debug\notTris_MarkupCompile.cache
+D:\notTris\notTris\notTris\obj\Debug\notTris.g.resources
+D:\notTris\notTris\notTris\obj\Debug\notTris.Properties.Resources.resources
+D:\notTris\notTris\notTris\obj\Debug\notTris.csproj.GenerateResource.cache
+D:\notTris\notTris\notTris\obj\Debug\notTris.csproj.CoreCompileInputs.cache
+D:\notTris\notTris\notTris\obj\Debug\notTris.exe
+D:\notTris\notTris\notTris\obj\Debug\notTris.pdb
+E:\notTris\notTris\notTris\bin\Debug\notTris.exe.config
+E:\notTris\notTris\notTris\bin\Debug\notTris.exe
+E:\notTris\notTris\notTris\bin\Debug\notTris.pdb
+E:\notTris\notTris\notTris\obj\Debug\notTris.csprojAssemblyReference.cache
+E:\notTris\notTris\notTris\obj\Debug\MainWindow.baml
+E:\notTris\notTris\notTris\obj\Debug\MainWindow.g.cs
+E:\notTris\notTris\notTris\obj\Debug\App.g.cs
+E:\notTris\notTris\notTris\obj\Debug\notTris_MarkupCompile.cache
+E:\notTris\notTris\notTris\obj\Debug\notTris.g.resources
+E:\notTris\notTris\notTris\obj\Debug\notTris.Properties.Resources.resources
+E:\notTris\notTris\notTris\obj\Debug\notTris.csproj.GenerateResource.cache
+E:\notTris\notTris\notTris\obj\Debug\notTris.csproj.CoreCompileInputs.cache
+E:\notTris\notTris\notTris\obj\Debug\notTris.exe
+E:\notTris\notTris\notTris\obj\Debug\notTris.pdb
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\bin\Debug\notTris.exe.config
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\bin\Debug\notTris.exe
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\bin\Debug\notTris.pdb
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\notTris.csprojAssemblyReference.cache
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\MainWindow.baml
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\MainWindow.g.cs
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\App.g.cs
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\notTris_MarkupCompile.cache
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\notTris.g.resources
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\notTris.Properties.Resources.resources
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\notTris.csproj.GenerateResource.cache
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\notTris.csproj.CoreCompileInputs.cache
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\notTris.exe
+D:\THIS IS THE ONE YOU ARE LOOKING FOR\notTris\notTris\notTris\obj\Debug\notTris.pdb
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\bin\Debug\notTris.exe.config
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\bin\Debug\notTris.exe
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\bin\Debug\notTris.pdb
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\notTris.csprojAssemblyReference.cache
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\MainWindow.baml
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\MainWindow.g.cs
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\App.g.cs
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\notTris_MarkupCompile.cache
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\notTris.g.resources
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\notTris.Properties.Resources.resources
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\notTris.csproj.GenerateResource.cache
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\notTris.csproj.CoreCompileInputs.cache
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\notTris.exe
+C:\Users\panda\OneDrive\Desktop\this is the curr\notTris\notTris\obj\Debug\notTris.pdb
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\bin\Debug\notTris.exe.config
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\bin\Debug\notTris.exe
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\bin\Debug\notTris.pdb
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\notTris.csprojAssemblyReference.cache
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\MainWindow.baml
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\MainWindow.g.cs
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\App.g.cs
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\notTris_MarkupCompile.cache
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\notTris.g.resources
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\notTris.Properties.Resources.resources
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\notTris.csproj.GenerateResource.cache
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\notTris.csproj.CoreCompileInputs.cache
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\notTris.exe
+C:\Users\panda\OneDrive\Desktop\FOR REAL\notTris\notTris\obj\Debug\notTris.pdb
+E:\FOR REAL\notTris\notTris\bin\Debug\notTris.exe.config
+E:\FOR REAL\notTris\notTris\bin\Debug\notTris.exe
+E:\FOR REAL\notTris\notTris\bin\Debug\notTris.pdb
+E:\FOR REAL\notTris\notTris\obj\Debug\notTris.csprojAssemblyReference.cache
+E:\FOR REAL\notTris\notTris\obj\Debug\MainWindow.baml
+E:\FOR REAL\notTris\notTris\obj\Debug\MainWindow.g.cs
+E:\FOR REAL\notTris\notTris\obj\Debug\App.g.cs
+E:\FOR REAL\notTris\notTris\obj\Debug\notTris_MarkupCompile.cache
+E:\FOR REAL\notTris\notTris\obj\Debug\notTris.g.resources
+E:\FOR REAL\notTris\notTris\obj\Debug\notTris.Properties.Resources.resources
+E:\FOR REAL\notTris\notTris\obj\Debug\notTris.csproj.GenerateResource.cache
+E:\FOR REAL\notTris\notTris\obj\Debug\notTris.csproj.CoreCompileInputs.cache
+E:\FOR REAL\notTris\notTris\obj\Debug\notTris.exe
+E:\FOR REAL\notTris\notTris\obj\Debug\notTris.pdb
